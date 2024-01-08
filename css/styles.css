@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Estilos personalizados com tons de vermelho */
+  .bg-light {
+    background-color: #f8d7da !important;
+  }
+  
+  .btn-primary {
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+  }
+  
+  .btn-primary:hover {
+    background-color: #c82333 !important;
+    border-color: #bd2130 !important;
+  }
+  
+  .blockquote-footer {
+    color: #dc3545;
+  }
+  
+  .footer-section {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  .footer-section h4 {
+    color: #dc3545;
+  }
+  
